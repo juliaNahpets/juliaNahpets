@@ -17,24 +17,8 @@ But I am also eager to explore and learn other technologies.&nbsp; 🚀
 
 ## Connect with me
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-   <div>
-
-   [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j-stephan/)
-   [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:julia-stephan@hotmail.de)
-   </div>
-   <div>
-
-   [![Codewars](https://www.codewars.com/users/juliaNahpets/badges/small)](https://www.codewars.com/users/juliaNahpets)
-   </div>
-</div>
-
-
-
-
-
-
-
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j-stephan/)
+[![Mail](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:julia-stephan@hotmail.de)
 
 </br>
 
@@ -128,19 +112,24 @@ But I am also eager to explore and learn other technologies.&nbsp; 🚀
 
 ## Projects
 
+<div align="center" width="1980">
+
 | Projects              | Links                     | Tech Stack & Tools                                           |
 |:----------------------|:--------------------------|:-------------------------------------------------------------|
-| Job Scraper Package   | [Live]() ∙ [Repository]() | `Python` `Notion`                                            |
-| Job Data Hub          | [Live]() ∙ [Repository]() | `Python` `Django` `SQLight 3` `Bootstrap` `Postman` `Notion` |
-| Job Scraper Extension | [Live]() ∙ [Repository]() | `JavaScript` `Chrome Webbrowser` `Notion`                    |
-| Portfolio Lab         | [Live]() ∙ [Repository]() | `JavaScript` `CSS` `Webcomponents` `Figma` `Notion`          |
-| Time Snap             | [Live]() ∙ [Repository]() | `Vue.js` `Pinia` `JavaScript` `Figma` `Miro`                 |
-
+| Job Scraper Package   | Repository                | `Python` `Notion`                                            |
+| Job Data Hub          | Live ∙ Repository         | `Python` `Django` `SQLight 3` `Bootstrap` `Postman` `Notion` |
+| Job Scraper Extension | Repository                | `JavaScript` `Chrome Webbrowser` `Notion`                    |
+| Portfolio Lab         | Live ∙ Repository         | `JavaScript` `CSS` `Webcomponents` `Figma` `Notion`          |
+| Time Snap             | Live ∙ Repository         | `Vue.js` `Pinia` `JavaScript` `Figma` `Miro`                 |
+</div>
 
 </br>
 
 ## Statistics
+<div align="right">
 
+[![Codewars](https://www.codewars.com/users/juliaNahpets/badges/micro)](https://www.codewars.com/users/juliaNahpets)
+</div>
 
 <div align="center">
 
