@@ -3,7 +3,7 @@
 
 </br>
 
-As a Full Stack Developer with a background in media design, I blend technical expertise with a deep understanding of complex user needs. In my most recent role, I designed web applications and managed CMS databases. 
+As a Fullstack Developer with a background in media design, I blend technical expertise with a deep understanding of complex user needs. In my most recent role, I designed web applications and managed CMS databases. 
 
 I enjoy working with:
 
